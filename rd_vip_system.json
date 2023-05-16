@@ -1,0 +1,13 @@
+{
+    "latest_version": "1.0.0",
+    "changelog": 
+    {
+        "version": "1.0.0",
+        "changes": [
+            "Completed VIP System",
+            "Completed Coin System",
+            "Completed VIP Dealership System",
+            "Completed VIP Salary System"
+        ]
+    }
+}
