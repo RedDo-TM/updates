@@ -1,0 +1,12 @@
+{
+    "latest_version": "1.0.0",
+    "changelog": 
+    {
+        "version": "1.0.0",
+        "changes": [
+            "Added tunnming chip system",
+            "Added drift chip system",
+            "Completed Vehicle Robbery System"
+        ]
+    }
+}
