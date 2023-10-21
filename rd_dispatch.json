@@ -1,1 +1,10 @@
-
+{
+    "latest_version": "BETA1-2.0.0",
+    "changelog": 
+    {
+        "version": "BETA1-2.0.0",
+        "changes": [
+            "Added Priority System",
+        ]
+    }
+}
